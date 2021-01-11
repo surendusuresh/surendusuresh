@@ -1,7 +1,5 @@
 ### Hi there, I'm Surendu Suresh - [website] 👋
 
-[![Website]](https://www.surendusuresh.com)
-
 
 ## I'm a continuous learner who wants to improve myself constantly
 
