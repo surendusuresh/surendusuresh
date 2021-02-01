@@ -4,7 +4,7 @@
 ### I'm a continuous learner who wants to improve myself constantly
 
 - 🔭 I am a self taught full stack web developer
-- 🌱 I’m learning new technologies continuously
+- 🌱 Currently learning backend development using GraphQL
 - 🥅 2021 Goals: Master React and MERN stack
 
 
